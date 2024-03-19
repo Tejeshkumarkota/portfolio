@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 			"Based in Bengaluru, I'm a UI Developer passionate about building a modern web application that users love.",
 		url: "https://my-portfolio-tejesh.netlify.app/",
 		siteName: "K Tejesh Kumar",
-		images: "/logo.png",
+		images: "/logo.webp",
 		type: "website",
 	},
 	keywords: ["daily web coding", "tejesh kumar", "dailywebcoding"],

@@ -12,42 +12,42 @@ export default function Projects() {
             title: "ICT - International Capital Trading",
             tech: [SiReact, SiAntdesign, SiBootstrap, SiMui],
             link: "https://www.ict.ae/",
-            cover: "/ict-project.png",
+            cover: "/ict-project.webp",
             background: "bg-blue-900"
         },
         {
             title: "eDental Portal",
             tech: [SiBootstrap, SiCss3, SiGrunt, SiJavascript, SiJquery],
             link: "https://www.edentalportal.com/",
-            cover: "/edental-study-portal-project.png",
+            cover: "/edental-study-portal-project.webp",
             background: "bg-indigo-500"
         },
         {
             title: "RealCube",
             tech: [SiBootstrap, SiCss3, SiJquery, SiHtml5],
             link: "https://www.realcube.estate/ikes",
-            cover: "/realcube-project.png",
+            cover: "/realcube-project.webp",
             background: "bg-yellow-300"
         },
         {
             title: "Feel Good Stay",
             tech: [SiBootstrap, SiCss3, SiJquery, SiJavascript, SiGrunt],
             link: "https://www.feelgoodstay.in/booking",
-            cover: "/feel-good-stay-project.png",
+            cover: "/feel-good-stay-project.webp",
             background: "bg-lime-400"
         },
         {
             title: "ExC Academy",
             tech: [SiNextdotjs, SiTailwindcss],
             link: "https://www.exc.academy/sap-ariba-training-in-bangalore",
-            cover: "/exc-academy-project.png",
+            cover: "/exc-academy-project.webp",
             background: "bg-violet-500"
         },
         {
             title: "eDental Doctor",
             tech: [SiReact, SiAntdesign],
             link: "https://dev-doctors.edentalportal.com/dashboard",
-            cover: "/edental-doctors-portal-project.png",
+            cover: "/edental-doctors-portal-project.webp",
             background: "bg-blue-700"
         }
     ]
