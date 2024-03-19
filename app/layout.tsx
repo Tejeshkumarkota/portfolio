@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://next-supabase-vote.vercel.app/"),
+	metadataBase: new URL("https://my-portfolio-tejesh.netlify.app/"),
 
 	title: "K Tejesh Kumar",
 	authors: {
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 		title: "K Tejesh Kumar",
 		description:
 			"Based in Bengaluru, I'm a UI Developer passionate about building a modern web application that users love.",
-		url: "https://next-supabase-vote.vercel.app/",
+		url: "https://my-portfolio-tejesh.netlify.app/",
 		siteName: "K Tejesh Kumar",
 		images: "/logo.png",
 		type: "website",
